@@ -56,13 +56,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </p>
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![Yoni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crxncm&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=crxncm&theme=gruvbox)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=crxncm&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
